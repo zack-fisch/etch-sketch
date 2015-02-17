@@ -1,0 +1,15 @@
+#board {
+    height: 550px;
+    width: 600px;
+}
+.block {
+    display: inline-block;
+    height: 20px;
+    width:20px;
+    margin-right: 5px;
+    border: 2px solid black;
+}
+
+#redo {
+    display: block;
+}
